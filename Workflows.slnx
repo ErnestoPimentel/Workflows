@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="Workflows.Application/Workflows.Application.csproj" Id="5d40885e-7733-48e7-ba0f-b179fe22aaf0" />
     <Project Path="Workflows.Domain/Workflows.Domain.csproj" />
   </Folder>
 </Solution>
